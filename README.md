@@ -1,2 +1,2 @@
 # algoritmos_estruturas_de_dados
-Implementação algoritmos e estruturas de dados
+Implementação de algoritmos e estruturas de dados
